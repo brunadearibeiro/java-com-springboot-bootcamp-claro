@@ -1,7 +1,3 @@
-Aqui está um README mais bonito e estruturado para o seu repositório:
-
----
-
 # Java com Spring Boot - Bootcamp Claro
 
 ## Objetivo
